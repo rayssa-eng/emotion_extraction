@@ -1,1 +1,1 @@
-# emotion_extraction
+# Extração de emoções
